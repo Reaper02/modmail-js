@@ -7,7 +7,7 @@ try {
   console.log("Configuration file not found.");
   console.log("Creating a configuration file...");
   const defaults = {
-    "_token": "TOKEN",
+    "_token": "NzU4NDI5MzU3MTQzODgzODI3.X2u0YQ.RAYkF6qlTOWZ2vFRh1NaOs_vWAI",
     "_prefix": "-",
     "_owner": "ID",
     "_admins": [],
