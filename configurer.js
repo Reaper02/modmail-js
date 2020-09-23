@@ -9,7 +9,7 @@ try {
   const defaults = {
     "_token": "NzU4NDI5MzU3MTQzODgzODI3.X2u0YQ.RAYkF6qlTOWZ2vFRh1NaOs_vWAI",
     "_prefix": "-",
-    "_owner": "ID",
+    "_owner": "532405962204643349",
     "_admins": [],
     "_mongoUri": "MONGODB_URL",
     "_mainGuild": "ID",
